@@ -3,5 +3,5 @@ let somma = 0, media;
 for (let i = 0; i < 10; i++) {
     somma += nums[i];
 }
-media = somma / 10
+media = somma / 10;
 console.log(somma, media);
